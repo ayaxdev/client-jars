@@ -1,5 +1,5 @@
 {
-	"displayName": "Display Name",
-	"description": "Description",
-	"rawDownload": false
+	"displayName": "Client Jars",
+	"description": "You can download archived jars of free/leaked clients here",
+	"rawDownload": true
 }
